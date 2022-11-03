@@ -1,3 +1,3 @@
 Hi, I'm Tonda.\
-That's all.
-![](/me.png =50x50)
+That's all.\
+<img src="me.png" width="300">
